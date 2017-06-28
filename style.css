@@ -7,7 +7,12 @@ margin:15px;
   font-family: 'Frijole', cursive;
 }
 
-
+#q {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
 
 h1{
   font-weight: 300;
